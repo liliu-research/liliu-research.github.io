@@ -1,4 +1,4 @@
-[Home](./) | [Research](research) | [Projects](projects) | [Publications](publications) | [Teaching](teaching) | | [CV](cv) | [Contact](contact)
+[Home](./) | [Research](research) | [Projects](projects) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
 
 ---
 
