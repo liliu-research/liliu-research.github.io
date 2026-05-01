@@ -24,8 +24,9 @@ My current MSCA project, **OrganVOID**, aims to develop antioxidant Cu sintering
 
 ## Links
 
-- Google Scholar: (https://scholar.google.com/citations?hl=en&user=_AHwX9QAAAAJ&view_op=list_works&sortby=pubdate)
-- ORCID: (https://orcid.org/my-orcid?orcid=0000-0002-6734-3185)
-- Researchgate: (https://www.researchgate.net/settings/account) 
-- LinkedIn: (https://www.linkedin.com/in/li-liu-6b403a30b/)
-- Email: l.drliu@tudelft.nl
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=_AHwX9QAAAAJ&view_op=list_works&sortby=pubdate)
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6734-3185)
+- [LinkedIn](https://www.linkedin.com/in/li-liu-6b403a30b/)
+- [ResearchGate](https://www.researchgate.net/profile/Li-Liu-83?ev=hdr_xprf)
+- [TU Delft Profile](https://ectm.tudelft.nl/People/bio.php?id=1155)
+- [Email](mailto:l.drliu@tudelft.nl)
