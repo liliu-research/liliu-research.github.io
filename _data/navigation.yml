@@ -6,9 +6,9 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
+# Main navigation links
 
 main:
-    
   - title: "Research"
     url: /research/
 
@@ -19,9 +19,9 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-    
-  - title: "Teaching"
+    url: /talks/
+
+  - title: "Teaching & Supervision"
     url: /teaching/
 
   - title: "Awards & Service"
