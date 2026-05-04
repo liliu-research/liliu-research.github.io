@@ -9,11 +9,10 @@ To date, I have served as Principal Investigator for serveral research projects,
 ## Current European Fellowship
 
 1. **OrganVOID**  
-   **Marie Skłodowska-Curie Actions Postdoctoral Fellowship**, European Commission  
+   **Marie Skłodowska-Curie Actions Postdoctoral Fellowship**, European Commission, recieved the highest evaluation score 
    **Period:** 09/2025 – 08/2027  
-   **Reference:** 101204306  
    **Funding:** €232,916  
-   **Role:** Principal Investigator / Fellow  
+   **Role:** Fellow  
 
 ## Selected Previous PI-led Research Projects
 
