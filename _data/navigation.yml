@@ -12,8 +12,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Grants"
+    url: /grants/
 
   - title: "Publications"
     url: /publications/
@@ -21,7 +21,7 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching & Supervision"
+  - title: "Teaching"
     url: /teaching/
 
   - title: "Awards & Service"
