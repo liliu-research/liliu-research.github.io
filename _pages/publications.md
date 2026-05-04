@@ -75,13 +75,7 @@ This page lists selected first-author and corresponding-author publications.
 
 ## Books and Book Chapters
 
-### 2025
-
-1. **L. Liu** and Z. Chen, eds.  
-   **Power Electronic Packaging Technology and Reliability.**  
-   Chemical Industry Press, 2025.
-
-2. **L. Liu** and B. Li.  
+1. **L. Liu** and B. Li.  
    **Advanced Materials Forming and Processing.**  
    In W. Chen, ed., *Introduction to Materials*. Wuhan University of Technology Publishing House, 2025.
 
