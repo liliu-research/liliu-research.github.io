@@ -1,6 +1,6 @@
 ---
-title: "Projects & Grants"
-permalink: /projects/
+title: "Grants"
+permalink: /grants/
 author_profile: true
 ---
 
